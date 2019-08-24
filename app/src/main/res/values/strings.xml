@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SportsFeed</string>
+    <string name="Drawer_open">Open</string>
+    <string name="Drawer_close">Close</string>
+    <string name="Cric_fragment">cric</string>
+    <string name="Football_fragment">F1</string>
+    <string name="BasketBAll_fragment">F2</string>
+    <string name="fantasy_fragment">New </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ADMOB_APP_ID">ca-app-pub-2702096336547459~1965480687</string>
+    <string name="admob_interstitial_id">ca-app-pub-2702096336547459/6133926029</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2702096336547459/9329390410</string>
+</resources>

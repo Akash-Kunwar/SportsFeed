@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "401401363564",
+    "firebase_url": "https://football-d6606.firebaseio.com",
+    "project_id": "football-d6606",
+    "storage_bucket": "football-d6606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401401363564:android:5035a922a19c9fa8",
+        "android_client_info": {
+          "package_name": "com.company.dell_pc.football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401401363564-4pj37i1e0ef8ji4f1tj50kdcb09b6snp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.dell_pc.football",
+            "certificate_hash": "5b0844fa043bdb88009fb9e09bc252dc0a2a115a"
+          }
+        },
+        {
+          "client_id": "401401363564-q2vhv76sq0b925hbv09o7d4g28rnvq35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJBmpmCSoW4b7HuhGOOXEeI-p_-k7scA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401401363564-q2vhv76sq0b925hbv09o7d4g28rnvq35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401401363564:android:55dc1df7e5c7e88c",
+        "android_client_info": {
+          "package_name": "com.example.dell_pc.football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401401363564-nej3767tkcml748opjj5f7ki67vcrd43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell_pc.football",
+            "certificate_hash": "5b0844fa043bdb88009fb9e09bc252dc0a2a115a"
+          }
+        },
+        {
+          "client_id": "401401363564-q2vhv76sq0b925hbv09o7d4g28rnvq35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJBmpmCSoW4b7HuhGOOXEeI-p_-k7scA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401401363564-q2vhv76sq0b925hbv09o7d4g28rnvq35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
